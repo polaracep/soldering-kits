@@ -1,0 +1,17 @@
+{
+    "layout": {
+        "hspace": "40mm",
+        "vspace": "3mm",
+        "rows": "2"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "6mm",
+        "hwidth": "6mm",
+        "vcount": "6"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "-0.3mm"
+    }
+}

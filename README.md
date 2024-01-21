@@ -8,33 +8,58 @@ All of these kits were made for [MDDM Úvaly](https://www.mddmuvaly.cz/) and qua
 
 The circuits use a 3V 2032 baterry for the small size and ease of use.
 
+Some kits have a `panelize.json` file, which has a configuration for [KiKit](https://github.com/yaqwsx/KiKit) panelization tool. 
+Files prefixed with `prod-` contain already panelized versions of the board.
+
+
+> [!WARNING]
+> This page is not done yet! Some kits weren't yet made and README's are incomplete!
+
 ## Kits
 
-### Bat
-#### Description:
+<details>
+<summary><span style="font-size:130%;font-weight:bold;">Bat<span></summary>
 
-Black bat-shaped pcb with red glowing eyes. Usable as a Halloween decoration, pendant or a little trinket :).
+**Difficulty:** :star: :black_circle: :black_circle: 
 
-#### Circuit:
+A Bat with red slowly-blinking eyes. 
 
-Astable multivibrator circuit with a low-pass filter into a transistor driving 2 LED's
+<p align='center'>
+    <img width=48% src='img/bat-f.jpg'>
+    <img width=48% src='img/bat-b.jpg'>
+</p>
+He looks a little funny, so if you want to make the graphics a little more pretty, go for it!
 
-#### Quirks:
+[See more!](/bat/README.md)
 
-The circuit can take up to 10 seconds before it starts blinking. Maybe could be fixed?
+</details>
 
-### Level crossing (přejezd)
+<details>
+<summary><span style="font-size:130%;font-weight:bold;">Level Crossing<span></summary>
 
-#### Description:
+<br>
 
-A czech AŽD-97 crossing sign. Has 2 operational modes, that can be changed with 2 solder bridges on the back. It can also be soldered with SMD or THT parts. 
+**Difficulty:** :star: :star: :black_circle: 
 
-**Modes:**
+Adaptable level crossing circuit featuring 2 red LEDs. Choose between 2 modes with a solder bridge: 
+- Dynamic blinking 
+- Activate the LEDs with a touch-sensitive pad
 
-1. The LEDs blink
-2. The LEDs are normally off. Pad in the middle can be used as a button to turn the LEDs on
+Solderable using SMD or THT parts.
 
-#### Circuit:
+[See more!](/crossing/README.md)
+
+<p align='center'>
+    <img width=48% src='img/crossing-f.jpg'>
+    <img width=48% src='img/crossing-b.jpg'>
+</p>
+
+</details>
 
 
-#### Quirks:
+<details>
+<summary><span style="font-size:130%;font-weight:bold;">Electronic dice<span></summary>
+
+
+
+</details>

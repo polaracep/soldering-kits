@@ -1,0 +1,36 @@
+{
+    "layout": {
+        "alternation": "cols",
+        "hspace": "4mm",
+        "cols": "2",
+        "baketext": "False"
+    },
+    "source": {
+        "tolerance": "8mm",
+        "stack": "2layer"
+    },
+    "tabs": {
+        "type": "fixed",
+        "hwidth": "12mm",
+        "cutout": "0mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "-0.3mm",
+        "prolong": "-0.5mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "width": "6mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "2.5mm",
+        "text": "blik blik"
+    },
+    "text4": {
+        "type": "simple",
+        "voffset": "80mm",
+        "text": "JLCJLCJLCJLC"
+    }
+}
