@@ -20,5 +20,5 @@ The circuit can take up to 10 seconds before it starts blinking. Maybe could be 
 | R6 | 300k, 0207 | 110-132 
 | C1, C2, C3 | 47u, 6.3x5 | 123-373 
 | Q1, Q2, Q3 | 2N3904, TO92 | 215-003 
-| D1, D2 | LED, cervena / fialova, 5 mm | R: 518-278, FIAL: 518-519
-| BT1 | drzak na 2032 baterku | 819-157 
+| D1, D2 | LED, red 5 mm | R: 518-278, FIAL: 518-519
+| BT1 | 2032 Holder | 819-157 

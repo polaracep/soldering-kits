@@ -17,8 +17,7 @@ Files prefixed with `prod-` contain already panelized versions of the board.
 
 ## Kits
 
-<details>
-<summary><span style="font-size:130%;font-weight:bold;">Bat<span></summary>
+### Bat 
 
 **Difficulty:** :star: :black_circle: :black_circle: 
 
@@ -32,12 +31,8 @@ He looks a little funny, so if you want to make the graphics a little more prett
 
 [See more!](/bat/README.md)
 
-</details>
 
-<details>
-<summary><span style="font-size:130%;font-weight:bold;">Level Crossing<span></summary>
-
-<br>
+### Level Crossing
 
 **Difficulty:** :star: :star: :black_circle: 
 
@@ -54,12 +49,7 @@ Solderable using SMD or THT parts.
     <img width=48% src='img/crossing-b.jpg'>
 </p>
 
-</details>
+
+### Electronic dice
 
 
-<details>
-<summary><span style="font-size:130%;font-weight:bold;">Electronic dice<span></summary>
-
-
-
-</details>
