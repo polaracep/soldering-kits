@@ -41,11 +41,11 @@ A Bat with red slowly-blinking eyes.
 </p>
 He looks a little funny, so if you want to make the graphics a little more pretty, go for it!
 
-[See more!](/bat/README.md)
+[See more!](bat/README.md)
 
 <br>
 
-## Level crossing
+### Level crossing
 
 **Difficulty:** :star: :star: :black_circle: 
 
@@ -62,9 +62,11 @@ Solderable using SMD or THT parts.
     <img width=48% src='img/crossing-b.jpg'>
 </p>
 
-## Electronic dice
+
+### Electronic dice
 
 **Difficulty:** :star: :star: :star:
+
 
 This electronic dice isn't as small as a classic one, but it won't fall off of the table during game nights. Shake to generate a random number.
 Uses a SW-420 vibration sensor,
