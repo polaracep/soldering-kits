@@ -190,11 +190,11 @@
     (property "ki_keywords" "connector")
     (path "/60b8105d-9b09-4e24-8a1c-1de642f24677")
     (attr smd)
-    (fp_text reference "J1" (at 0 -7.747 unlocked) (layer "F.SilkS")
+    (fp_text reference "J1" (at 0 -6 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 3770dc99-6829-4ecd-875e-9671a5452ebb)
     )
-    (fp_text value "PAD" (at 0 -6.247 unlocked) (layer "F.SilkS")
+    (fp_text value "PAD" (at 0 -6.247 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp a72f2b92-9aef-4826-ac74-bef67ff62b5c)
     )
@@ -205,7 +205,7 @@
     (fp_circle (center 0 0) (end 5 0)
       (stroke (width 0.25) (type default)) (fill none) (layer "F.SilkS") (tstamp 0ebbf3e9-8f37-40d5-b2ce-79365cf92b92))
     (pad "1" smd custom (at -5 0) (size 0.254 0.254) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 7 "+3.3V") (pinfunction "Pin_1") (pintype "passive")
+      (net 7 "+3.3V") (pinfunction "Pin_1") (pintype "passive") (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -244,7 +244,7 @@
         (gr_line (start 9.2 -1) (end 0.1 -1) (width 0.25))
       ) (tstamp f5c379d8-76f8-49bf-a67d-b1b96bb3a3a5))
     (pad "2" smd custom (at 4.953 0) (size 0.254 0.254) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 14 "Net-(J1-Pin_2)") (pinfunction "Pin_2") (pintype "passive")
+      (net 14 "Net-(J1-Pin_2)") (pinfunction "Pin_2") (pintype "passive") (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -1498,7 +1498,7 @@
       (stroke (width 0.12) (type solid)) (layer "B.SilkS") (tstamp e52e062f-b27a-479b-a16e-2886f4359db8))
     (fp_arc (start 4.45 -1.7) (mid 4.666594 -1.419753) (end 4.842383 -1.112264)
       (stroke (width 0.12) (type solid)) (layer "B.SilkS") (tstamp 01023c44-4ecb-4030-8be1-035303269013))
-    (fp_arc (start 4.8964 1.098807) (mid 3.936979 2.192817) (end 2.54 2.6)
+    (fp_arc (start 4.8964 1.098807) (mid 3.936978 2.192818) (end 2.54 2.6)
       (stroke (width 0.12) (type solid)) (layer "B.SilkS") (tstamp ebed1dc3-dd8b-4065-869c-0df92d20030a))
     (fp_line (start -1 -1.9) (end 0.84 -1.9)
       (stroke (width 0.05) (type solid)) (layer "B.CrtYd") (tstamp b15c6cdb-25cc-404c-8778-a38389ed7632))
@@ -1518,7 +1518,7 @@
       (stroke (width 0.05) (type solid)) (layer "B.CrtYd") (tstamp 404a115d-cd40-4fb5-be7b-81978ebdad12))
     (fp_line (start 0.65 -1.6) (end 4.4 -1.6)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 76217e93-8925-412e-84bb-0405a47bcec3))
-    (fp_arc (start 2.54 2.48) (mid 0.290076 1.043188) (end 0.647182 -1.602385)
+    (fp_arc (start 2.54 2.48) (mid 0.290076 1.043189) (end 0.647182 -1.602385)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 1c38fc0c-e87f-4a99-9156-bc76fc47e4f5))
     (fp_arc (start 4.441103 -1.592547) (mid 4.787211 1.049019) (end 2.54 2.48)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 3ea14c56-84fc-4697-86ca-b7702f318aa4))
@@ -1789,7 +1789,7 @@
       (stroke (width 0.05) (type solid)) (layer "B.CrtYd") (tstamp 7b774747-57c6-4f05-9422-fbf064140120))
     (fp_line (start 0.65 -1.6) (end 4.4 -1.6)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp eb9b8e57-c827-4c8f-a5a6-9b2ef426b52b))
-    (fp_arc (start 2.54 2.48) (mid 0.290076 1.043188) (end 0.647182 -1.602385)
+    (fp_arc (start 2.54 2.48) (mid 0.290076 1.043189) (end 0.647182 -1.602385)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 2e071698-6dd0-48f3-8367-e1b0ddefac82))
     (fp_arc (start 4.441103 -1.592547) (mid 4.787211 1.049019) (end 2.54 2.48)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp b11b3250-caa0-4300-8791-017f803dfa1a))

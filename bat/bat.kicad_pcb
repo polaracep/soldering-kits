@@ -811,7 +811,7 @@
     (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 8 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp ec315377-8ab0-4359-8996-62b2317ba6c2))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 2.5 0 0))
+      (offset (xyz 2.5 0 1.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
@@ -867,7 +867,7 @@
     (pad "2" thru_hole circle (at 2.54 0 180) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 8 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp ab53ee2f-7e46-4abe-a628-9633bd125e6d))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 2.5 0 0))
+      (offset (xyz 2.5 0 1.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
@@ -1290,7 +1290,7 @@
       (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 42df9e28-8014-4218-a9dd-7026df6f70ad))
     (fp_line (start 14.4 4.4) (end 14.4 -4.4)
       (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 485407f1-0b83-4368-b52b-c39a01a11bc7))
-    (fp_arc (start 11.402065 4.400374) (mid -12.220687 0.005731) (end 11.4 -4.4)
+    (fp_arc (start 11.402065 4.400374) (mid -12.220687 0.005729) (end 11.4 -4.4)
       (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 8b6b55fd-dd5c-4525-8777-286938644324))
     (pad "1" thru_hole circle (at 12.15 0 270) (size 2.5 2.5) (drill 1.2) (layers "*.Cu" "*.Mask")
       (net 7 "Net-(BT1-+)") (pinfunction "+") (pintype "passive") (tstamp 1a9bb184-3fac-4881-98bc-7449662e7d84))

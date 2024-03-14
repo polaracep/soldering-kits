@@ -4,21 +4,32 @@ The aim is to create inexpensive electronic kits that primarily appeal to childe
 The easiest kits are suitable for childern above the age of 6, but anyone wanting to learn the art of soldering can pick one up.
 If bear some soldering experience already, look at one of the more difficult kits. More components, more functionality!
 
-All of these kits were made for [MDDM Úvaly](https://www.mddmuvaly.cz/) and quality-tested by childern.
+All of these kits were made for [MDDM Úvaly](https://www.mddmuvaly.cz/) and quality-tested by childern. 
 
-The circuits use a 3V 2032 baterry for the small size and ease of use.
+Kits are usually designed for THT parts (ease of soldering), but you may find some SMD or dual versions. 
+The circuits use a 3V 2032 baterry due to the small size and cheap price.
 
 Some kits have a `panelize.json` file, which has a configuration for [KiKit](https://github.com/yaqwsx/KiKit) panelization tool. 
-Files prefixed with `prod-` contain already panelized versions of the board.
+Files prefixed with `prod-` contain already panelized versions of the board, although i would recommend panelizing yourself.
+
+[JLCPCB](https://www.jlcpcb.com/) was used for sourcing the PCBs
+
+and [LCSC](https://www.lcsc.com/) for most of the parts.
 
 
 > [!WARNING]
 > This page is not done yet! Some kits weren't yet made and README's are incomplete!
 
-## Kits
+---
 
-<details>
-<summary><span style="font-size:130%;font-weight:bold;">Bat<span></summary>
+### Kit index
+- [Bat](#bat)
+- [Level crossing](#level-crossing)
+- [e-dice](#electronic-dice)
+
+---
+
+### Bat 
 
 **Difficulty:** :star: :black_circle: :black_circle: 
 
@@ -32,12 +43,9 @@ He looks a little funny, so if you want to make the graphics a little more prett
 
 [See more!](/bat/README.md)
 
-</details>
-
-<details>
-<summary><span style="font-size:130%;font-weight:bold;">Level Crossing<span></summary>
-
 <br>
+
+## Level crossing
 
 **Difficulty:** :star: :star: :black_circle: 
 
@@ -54,12 +62,10 @@ Solderable using SMD or THT parts.
     <img width=48% src='img/crossing-b.jpg'>
 </p>
 
-</details>
+## Electronic dice
 
+**Difficulty:** :star: :star: :star:
 
-<details>
-<summary><span style="font-size:130%;font-weight:bold;">Electronic dice<span></summary>
+This electronic dice isn't as small as a classic one, but it won't fall off of the table during game nights. Shake to generate a random number.
+Uses a SW-420 vibration sensor,
 
-
-
-</details>
