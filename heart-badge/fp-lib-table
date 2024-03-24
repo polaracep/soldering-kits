@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lib")(type "KiCad")(uri "/media/adam/Work/projects/soldering-kits/lib/footprint/kit-fp.pretty")(options "")(descr ""))
+)
