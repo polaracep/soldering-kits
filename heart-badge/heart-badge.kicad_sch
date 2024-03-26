@@ -2759,7 +2759,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Slide_DPDT"
+		(property "Value" "MS-22D28-G020"
 			(at 137.16 52.705 90)
 			(effects
 				(font
@@ -2838,7 +2838,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Slide_DPDT"
+		(property "Value" "MST22D18G2"
 			(at 114.3 52.705 90)
 			(effects
 				(font
@@ -2846,7 +2846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lib:SW_JS202011SCQN"
 			(at 119.38 77.47 0)
 			(effects
 				(font
