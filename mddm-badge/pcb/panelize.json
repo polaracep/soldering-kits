@@ -1,0 +1,24 @@
+{
+    "layout": {
+        "hspace": "3mm",
+        "vspace": "3mm",
+        "hbackbone": "2mm",
+        "vbackbone": "2mm",
+        "rows": "2",
+        "cols": "2"
+    },
+    "source": {
+        "tolerance": "5mm"
+    },
+    "tabs": {
+        "vwidth": "2mm",
+        "hwidth": "2mm",
+        "spacing": "7mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "spacing": "0.7mm",
+        "offset": "-0.3mm",
+        "prolong": "1mm"
+    }
+}

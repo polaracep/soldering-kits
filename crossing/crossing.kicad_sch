@@ -2258,7 +2258,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D10.0mm"
+		(property "Footprint" "lib:LED_D10.0mm"
 			(at 117.475 91.44 0)
 			(effects
 				(font
@@ -2783,7 +2783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D10.0mm"
+		(property "Footprint" "lib:LED_D10.0mm"
 			(at 173.355 91.44 0)
 			(effects
 				(font
