@@ -452,7 +452,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mddm_badge.kicad_pro",
+    "filename": "mddm-badge.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -487,7 +487,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "grb-solo/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
