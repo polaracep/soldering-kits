@@ -2,23 +2,22 @@
 A collection of cheap soldering kits made with simple analog/TTL circuits. 
 The aim is to create inexpensive electronic kits that primarily appeal to childern and get them started on their path of electronic engineering. 
 The easiest kits are suitable for childern above the age of 6, but anyone wanting to learn the art of soldering can pick one up.
-If bear some soldering experience already, look at one of the more difficult kits. More components, more functionality!
+If you bear some soldering experience already, look at one of the more difficult kits.
 
-All of these kits were made for [MDDM Úvaly](https://www.mddmuvaly.cz/) and quality-tested by childern. 
+All of these kits were made to for [MDDM Úvaly](https://www.mddmuvaly.cz/) and quality-tested by childern. 
 
-Kits are usually designed for THT parts (ease of soldering), but you may find some SMD or dual versions. 
-The circuits use a 3V 2032 baterry due to the small size and cheap price.
+Most of the kits are meant to be soldered with THT parts (ease of soldering), but there are also some SMD kits, or kits with both SMD and THT. 
+The circuits use a 3V 2032 baterry, due to its small size and low price.
 
-Some kits have a `panelize.json` file, which has a configuration for [KiKit](https://github.com/yaqwsx/KiKit) panelization tool. 
-Files prefixed with `prod-` contain already panelized versions of the board, although i would recommend panelizing yourself.
+### Ordering
+The cheapest PCB manufacturer for such low quantities is definitely [JLCPCB](https://www.jlcpcb.com/). They have a sufficient amount of colour options and the PCBs are good quality. 
 
-[JLCPCB](https://www.jlcpcb.com/) was used for sourcing the PCBs
-
-and [LCSC](https://www.lcsc.com/) for most of the parts.
+For parts I'd recommend LCSC, because of their low prices too.
+For cheap parts in bulk: [LCSC](https://www.lcsc.com/).
 
 
 > [!WARNING]
-> This page is not done yet! Some kits weren't yet made and README's are incomplete!
+> This page is work in progress! 
 
 ---
 
@@ -26,10 +25,12 @@ and [LCSC](https://www.lcsc.com/) for most of the parts.
 - [Bat](#bat)
 - [Level crossing](#level-crossing)
 - [e-dice](#electronic-dice)
+- [Heart badge]
+- [MDDM badge]
 
 ---
 
-### Bat 
+## Bat 
 
 **Difficulty:** :star: :black_circle: :black_circle: 
 
@@ -39,19 +40,20 @@ A Bat with red slowly-blinking eyes.
     <img width=48% src='img/bat-f.jpg'>
     <img width=48% src='img/bat-b.jpg'>
 </p>
-He looks a little funny, so if you want to make the graphics a little more pretty, go for it!
+
+I'm no graphic designer, you're welcome to improve the silkscreen design :)
 
 [See more!](bat/README.md)
 
 <br>
 
-### Level crossing
+## Level crossing
 
-**Difficulty:** :star: :star: :black_circle: 
-
-Adaptable level crossing circuit featuring 2 red LEDs. Choose between 2 modes with a solder bridge: 
-- Dynamic blinking 
-- Activate the LEDs with a touch-sensitive pad
+**Difficulty:** :star: :black_circle: :black_circle:
+A simple multivibrator circuit imitating common czech train crossings. It's really fast & easy to solder thanks to the small count of components needed, just 11!
+Circuit uses 2 10mm red LEDs. 2 Selectable modes with a solder bridge: 
+- Dynamic blinking :zap:
+- Activate the LEDs with a touch-sensitive pad :point_up:
 
 Solderable using SMD or THT parts.
 
