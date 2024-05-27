@@ -194,7 +194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -534,7 +534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1426,7 +1426,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1766,7 +1766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:LED_D5.0mm_Marked"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2013,7 +2013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2283,7 +2283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2553,7 +2553,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2802,7 +2802,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3051,7 +3051,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3300,7 +3300,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4007,7 +4007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4277,7 +4277,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:LED_D5.0mm_Marked"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4524,7 +4524,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4867,7 +4867,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5140,7 +5140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:LED_D5.0mm_Marked"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5387,7 +5387,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:LED_D5.0mm_Marked"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5634,7 +5634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6044,7 +6044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6314,7 +6314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6654,7 +6654,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6927,7 +6927,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:LED_D5.0mm_Marked"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7314,7 +7314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7584,7 +7584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:LED_D5.0mm_Marked"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7831,7 +7831,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8081,7 +8081,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8351,7 +8351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8621,7 +8621,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8891,7 +8891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9140,7 +9140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9410,7 +9410,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9659,7 +9659,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9909,7 +9909,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10249,7 +10249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10498,7 +10498,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:SW-420"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10840,7 +10840,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11180,7 +11180,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11450,7 +11450,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11769,7 +11769,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12109,7 +12109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12382,7 +12382,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:LED_D5.0mm_Marked"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12701,7 +12701,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12974,7 +12974,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13250,7 +13250,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13526,7 +13526,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13802,7 +13802,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14075,7 +14075,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14351,7 +14351,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kit-fp:CONNFLY_DS1092-04"
 			(at 0 0 100)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14549,7 +14549,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15735,6 +15735,105 @@
 				(thickness 0.15)
 			)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "0ddd61f2-ae1f-45f2-900b-a26b34eb7b35")
+		(pts
+			(xy 107 37) (xy 141.5 37)
+		)
+		(height -2.2)
+		(gr_text "34.5000 mm"
+			(at 124.25 33.65 0)
+			(layer "Dwgs.User")
+			(uuid "0ddd61f2-ae1f-45f2-900b-a26b34eb7b35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "799f6c16-294d-4b93-bfa2-376966e76bba")
+		(pts
+			(xy 107 71.5) (xy 107 37)
+		)
+		(height -2.2)
+		(gr_text "34.5000 mm"
+			(at 103.65 54.25 90)
+			(layer "Dwgs.User")
+			(uuid "799f6c16-294d-4b93-bfa2-376966e76bba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "b68d0824-ef96-412b-919c-8e5458308962")
+		(pts
+			(xy 212.5 71.5) (xy 107 71.5)
+		)
+		(height -2.5)
+		(gr_text "105.5000 mm"
+			(at 159.75 72.85 0)
+			(layer "Dwgs.User")
+			(uuid "b68d0824-ef96-412b-919c-8e5458308962")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 126.46 39.999999)

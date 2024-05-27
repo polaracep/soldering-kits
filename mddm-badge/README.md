@@ -9,3 +9,6 @@ A tiny programmable badge with rgb LEDs.
 <p align="center">
   <img src="./doc/mddm-badge-video.gif">
 </p>
+
+#### Disclaimer 
+I hereby give up all responsibility for the functionality of your boards.

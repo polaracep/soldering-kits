@@ -63,5 +63,6 @@ you don't need to solder every component for only one of the circuits to work. a
 | SUM | 14 | 
 
 #### Disclaimer 
-I hereby give up all responsibility for the functionality of your boards. Please purchase only after a review.
+I hereby give up all responsibility for the functionality of your boards.
+
 

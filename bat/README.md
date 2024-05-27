@@ -41,3 +41,5 @@ The circuit can take some time until it starts blinking.
 | D1, D2 | LED, red 5 mm | R: 518-278, FIAL: 518-519
 | BT1 | 2032 Holder | 819-157 
 
+#### Disclaimer 
+I hereby give up all responsibility for the functionality of your boards.

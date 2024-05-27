@@ -13,7 +13,7 @@ I came up with 2 ways of mounting them:
 ### Circuit
 
 15 LEDs wired in parallel with a DPDT switch.  
-I used a DPDT switch because they're pretty easy to solder, unlike common SMD SPST/SPDT switches.
+DPDT switch was used because they're pretty easy to solder, unlike common SMD SPST/SPDT switches.
 The resistor I chose is 200R, which is not enough to be bright on daylight, but sufficient in a normal rooms. 
 
 ### Schematic
@@ -36,8 +36,8 @@ The resistor I chose is 200R, which is not enough to be bright on daylight, but 
 | R1 | 1 | 200R, 0805
 | SW1 | 1 | DPDT Switch
 | - | - | -
-| SUM | 14 | 
+| SUM | 18 | 
 
 #### Disclaimer 
-I hereby give up all responsibility for the functionality of your boards. Please purchase only after a review.
+I hereby give up all responsibility for the functionality of your boards.
 
