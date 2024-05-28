@@ -8,11 +8,9 @@ A bat with red glowing eyes
 
 ### Circuit
 
-The circuit consists of an astable multivibrator with a low-pass RC filter driving two LEDs through a transistor.
-The astable multivibrator generates a distorted ramp wave.
-The low-pass filter smoothens the voltage, creating an effect of the bat's ominously blinking eyes.
+The astable multivibrator generates a distorted ramp wave, which in turn gets smoothened out by a filter, driving 2 LEDs with a transistor creating an effect of the bat's ominously blinking eyes.
 
-### Quirks:
+### Quirks
 
 The circuit can take some time until it starts blinking.
 
