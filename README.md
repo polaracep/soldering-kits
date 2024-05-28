@@ -67,6 +67,6 @@ Programmable LED badge.
 
 ## Electronic dice
 
-A shakeable dice 
+A shakeable semi-random dice.
 
 [**See more!**](/e-dice/README.md)
