@@ -2,21 +2,29 @@
 
 A bat with red glowing eyes
 
+<p align="center">
+  <img src="./doc/bat-video.gif">
+</p>
 
-**Difficulty:** :star:  :black_circle: :black_circle: 
+### Circuit
 
-### About
+The astable multivibrator generates a distorted ramp wave, which in turn gets smoothened out by a filter, driving 2 LEDs with a transistor creating an effect of the bat's ominously blinking eyes.
 
-The circuit consists of an astable multivibrator with a low-pass RC filter driving two LEDs through a transistor.
-The astable multivibrator generates a distorted ramp wave, suitable for driving LEDs.
-The low-pass filter smoothens the voltage, giving the impression of the bat's eyes slowly blinking ominously.
+### Quirks
 
+The circuit can take some time until it starts blinking.
 
-When ordering the parts on LCSC
+### Schematic
 
-### Quirks:
+<p align="center">
+  <img src="./doc/sch.png">
+</p>
 
-The circuit can take up to 10 seconds before it starts blinking. Maybe could be fixed?
+### PCB
+
+<p align="center">
+  <img src="./doc/pcb.png">
+</p>
 
 ### BOM
 
@@ -31,3 +39,5 @@ The circuit can take up to 10 seconds before it starts blinking. Maybe could be 
 | D1, D2 | LED, red 5 mm | R: 518-278, FIAL: 518-519
 | BT1 | 2032 Holder | 819-157 
 
+#### Disclaimer 
+I hereby give up all responsibility for the functionality of your boards.

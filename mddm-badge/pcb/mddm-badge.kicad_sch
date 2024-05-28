@@ -3069,7 +3069,7 @@
 			(uuid "2ff4addb-9010-4959-b91a-9224fc343330")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR013")
 					(unit 1)
@@ -3136,7 +3136,7 @@
 			(uuid "3188c2e0-1226-40b6-9ca2-2a14e5d2b1bf")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR06")
 					(unit 1)
@@ -3219,7 +3219,7 @@
 			(uuid "bdad848c-6a39-4608-8ed8-0b107ac8926f")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "U1")
 					(unit 1)
@@ -3286,7 +3286,7 @@
 			(uuid "e497f5cd-3508-4747-9cd8-f5dd4c154563")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR012")
 					(unit 1)
@@ -3352,7 +3352,7 @@
 			(uuid "e4d47e6e-b053-4219-a1ac-da9b3bbfd52c")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR017")
 					(unit 1)
@@ -3567,7 +3567,7 @@
 			(uuid "62f8e06b-5fe9-4410-afa3-dfda2234f35d")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D6")
 					(unit 1)
@@ -3634,7 +3634,7 @@
 			(uuid "dfa2a675-4fc7-4047-abc4-24e44098ea7e")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR05")
 					(unit 1)
@@ -3849,7 +3849,7 @@
 			(uuid "417e5ffa-9af8-4200-bd63-f62f087990d1")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D3")
 					(unit 1)
@@ -4064,7 +4064,7 @@
 			(uuid "0cb08da3-72a2-4d37-b7aa-cf41f7ef01a3")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D7")
 					(unit 1)
@@ -4279,7 +4279,7 @@
 			(uuid "3e3d5dd2-117e-4206-ac66-eecc51df3a39")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D4")
 					(unit 1)
@@ -4346,7 +4346,7 @@
 			(uuid "dcbf11b4-0a9f-401c-9897-2ba273569164")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "R1")
 					(unit 1)
@@ -4413,7 +4413,7 @@
 			(uuid "bd72a2a5-8af7-462c-b194-6c2d974ad3e1")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR011")
 					(unit 1)
@@ -4479,7 +4479,7 @@
 			(uuid "4bbbac86-a01b-4f78-a26a-61cad3cb1d3e")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR02")
 					(unit 1)
@@ -4545,7 +4545,7 @@
 			(uuid "b3a09b12-613c-42fc-8369-0a8082f23f0d")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR04")
 					(unit 1)
@@ -4611,7 +4611,7 @@
 			(uuid "2a8d161f-c61b-4d33-a438-6284b1778f96")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR01")
 					(unit 1)
@@ -4681,7 +4681,7 @@
 			(uuid "ee45b49c-d0de-4f5b-9e97-be75ccd9266b")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "BT1")
 					(unit 1)
@@ -4896,7 +4896,7 @@
 			(uuid "bbc90eda-ca91-4a27-9ed6-d668a3d6a36a")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D5")
 					(unit 1)
@@ -4962,7 +4962,7 @@
 			(uuid "ca643ac1-b09c-49da-9690-0d5a8c6b1955")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR019")
 					(unit 1)
@@ -5029,7 +5029,7 @@
 			(uuid "7c9afa81-edde-4cad-bf2f-502f787218e2")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR07")
 					(unit 1)
@@ -5096,7 +5096,7 @@
 			(uuid "29d87e8a-b146-4528-b855-9e1c0df98e77")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR015")
 					(unit 1)
@@ -5162,7 +5162,7 @@
 			(uuid "91bca500-4bc9-4161-b09f-0b6f8fa30e27")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR020")
 					(unit 1)
@@ -5230,7 +5230,7 @@
 			(uuid "3d0c99e7-636f-4122-8bb3-86969f95c417")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "R5")
 					(unit 1)
@@ -5445,7 +5445,7 @@
 			(uuid "231db851-db5e-4924-ab72-1afdc0e6eebd")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D10")
 					(unit 1)
@@ -5511,7 +5511,7 @@
 			(uuid "7e77e103-0089-4a94-b015-4f31657b4c8f")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR03")
 					(unit 1)
@@ -5578,7 +5578,7 @@
 			(uuid "5b02cdca-b024-4ba0-9959-78d1f0a6f173")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR09")
 					(unit 1)
@@ -5793,7 +5793,7 @@
 			(uuid "a29bc142-58ae-4f72-a7b1-70a9e51d8d30")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D9")
 					(unit 1)
@@ -6008,7 +6008,7 @@
 			(uuid "6470e241-e3a5-484e-ade3-acdf68ab6f27")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D2")
 					(unit 1)
@@ -6075,7 +6075,7 @@
 			(uuid "34b77c86-7e35-4f0b-8e33-cbf370e2de0c")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR014")
 					(unit 1)
@@ -6290,7 +6290,7 @@
 			(uuid "8f423d1a-61be-4c58-a11b-20ac976d3ed2")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D1")
 					(unit 1)
@@ -6505,7 +6505,7 @@
 			(uuid "c7599a81-0245-4721-b219-01636f67ba97")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "D8")
 					(unit 1)
@@ -6572,7 +6572,7 @@
 			(uuid "7748e6c3-5922-4814-928b-dc8e4ec5b26f")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR018")
 					(unit 1)
@@ -6654,7 +6654,7 @@
 			(uuid "14d4b1ea-3f43-4f5a-a883-30d7aadf4834")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "J1")
 					(unit 1)
@@ -6724,7 +6724,7 @@
 			(uuid "40e4ef02-9478-440d-a4fc-35e8bfd87c21")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "C1")
 					(unit 1)
@@ -6792,7 +6792,7 @@
 			(uuid "faf5e66d-bffe-4c4e-9fb3-5621283d4c81")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "SW1")
 					(unit 1)
@@ -6859,7 +6859,7 @@
 			(uuid "eb088242-16a7-4ccf-abf8-1481596557d4")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR016")
 					(unit 1)
@@ -6928,7 +6928,7 @@
 			(uuid "41efe664-b514-4747-b1df-b38b490bd4bb")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "R4")
 					(unit 1)
@@ -6995,7 +6995,7 @@
 			(uuid "e33d81d5-8a86-4265-a00d-f7ba0d9425b0")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR08")
 					(unit 1)
@@ -7062,7 +7062,7 @@
 			(uuid "bc61c822-7d72-45e8-859b-475a3d070aad")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "R3")
 					(unit 1)
@@ -7129,7 +7129,7 @@
 			(uuid "8696550d-373c-4b1c-aa41-dbf27e85b6dc")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "#PWR010")
 					(unit 1)
@@ -7196,7 +7196,7 @@
 			(uuid "dbf7fa2c-4b31-4f5d-ac0d-58a1d5f62fa9")
 		)
 		(instances
-			(project "mddm_badge"
+			(project "mddm-badge"
 				(path "/e5ac9600-0201-4e24-aea0-c395c323229b"
 					(reference "R2")
 					(unit 1)

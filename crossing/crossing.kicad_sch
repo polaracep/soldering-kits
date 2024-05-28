@@ -2393,7 +2393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.147 82.55 90)
 			(effects
 				(font
@@ -2623,7 +2623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 119.253 82.55 90)
 			(effects
 				(font
@@ -2708,7 +2708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:CONNFLY_DS1092-04"
+		(property "Footprint" "lib:CONNFLY_DS1092-04"
 			(at 102.235 102.616 90)
 			(effects
 				(font
@@ -2852,7 +2852,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:Touchpad_resistive"
+		(property "Footprint" "lib:Touchpad_resistive"
 			(at 149.225 81.28 0)
 			(effects
 				(font
@@ -2922,7 +2922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:TO-92L_Inline_Wide+SMD_SOT-23"
+		(property "Footprint" "lib:TO-92L_Inline_Wide+SMD_SOT-23"
 			(at 114.935 108.585 0)
 			(effects
 				(font
@@ -3080,7 +3080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kit-fp:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 149.225 93.218 90)
 			(effects
 				(font
@@ -3213,7 +3213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kit-fp:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.065 93.218 90)
 			(effects
 				(font
@@ -3283,7 +3283,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 130.683 82.55 90)
 			(effects
 				(font
@@ -3442,7 +3442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:TO-92L_Inline_Wide+SMD_SOT-23"
+		(property "Footprint" "lib:TO-92L_Inline_Wide+SMD_SOT-23"
 			(at 175.895 108.585 0)
 			(effects
 				(font
@@ -3523,7 +3523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kit-fp:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_SMD_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 171.577 82.55 90)
 			(effects
 				(font
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kit-fp:CP_Radial_D6.3mm_P2.50mm+SMD_0805"
+		(property "Footprint" "lib:CP_Radial_D6.3mm_P2.50mm+SMD_0805"
 			(at 127.635 98.0948 0)
 			(effects
 				(font
@@ -3678,7 +3678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kit-fp:CP_Radial_D6.3mm_P2.50mm+SMD_0805"
+		(property "Footprint" "lib:CP_Radial_D6.3mm_P2.50mm+SMD_0805"
 			(at 163.195 100.0252 0)
 			(effects
 				(font
