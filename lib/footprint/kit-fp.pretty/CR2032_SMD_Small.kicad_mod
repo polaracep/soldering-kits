@@ -1,10 +1,10 @@
-(footprint "CR2032_SMD"
+(footprint "CR2032_SMD_Small"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 9.5 0)
+		(at 0 5.715 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "2c4d14d9-15c8-410b-97a5-dd78b83e0f4a")
@@ -15,8 +15,8 @@
 			)
 		)
 	)
-	(property "Value" "CR2032_SMD"
-		(at 0 11 0)
+	(property "Value" "CR2032_SMD_Small"
+		(at 0 7.215 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "eb3d2140-b388-4991-a01b-ab4dad524855")
@@ -68,8 +68,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -10.541 -4.445)
-		(end -10.541 -3.175)
+		(start -10.541 -4.572)
+		(end -10.541 -3.302)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -78,58 +78,18 @@
 		(uuid "83f012cd-8017-4a5d-a6af-5f42ba942b5e")
 	)
 	(fp_line
-		(start -10.541 3.302)
-		(end -10.541 4.318)
+		(start -10.541 4.572)
+		(end -10.541 3.302)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "ca52e592-fbc5-4ba7-8a22-4b9a19b20c6c")
+		(uuid "f3123623-c2af-4955-83ee-8d0911f1492a")
 	)
 	(fp_line
-		(start -7.62 -7.366)
-		(end -10.541 -4.445)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "5da5d8ff-3158-4c21-9316-dcbd1bf6f78f")
-	)
-	(fp_line
-		(start -7.62 -7.366)
-		(end -3.556 -7.366)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "393ae9aa-8ad8-43a4-9503-8136beebe98d")
-	)
-	(fp_line
-		(start 3.556 -7.366)
-		(end 7.62 -7.366)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "10afe96c-b35e-49e5-b999-67ccf4f0d9c5")
-	)
-	(fp_line
-		(start 7.62 -7.366)
-		(end 10.55 -4.445)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "473d9cb0-af90-4291-871c-874cabdc857c")
-	)
-	(fp_line
-		(start 10.55 -4.445)
-		(end 10.55 -3.175)
+		(start 10.541 -4.572)
+		(end 10.541 -3.302)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -138,14 +98,54 @@
 		(uuid "a182551d-111d-4c23-b2cf-14785306952c")
 	)
 	(fp_line
-		(start 10.55 3.302)
-		(end 10.55 4.318)
+		(start 10.541 4.572)
+		(end 10.541 3.302)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "cce7f0af-0aea-4233-a8c6-8a681591569e")
+		(uuid "ca20b95a-7ab2-48b4-9425-177743e0aaa8")
+	)
+	(fp_line
+		(start -7.62 -1.0668)
+		(end -7.62 1.0668)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ef034be-4fc8-414a-a441-a293c59e8349")
+	)
+	(fp_line
+		(start -5.588 3.0988)
+		(end 5.588 3.0988)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "739e79a3-139d-4184-861e-7ad2313bbfcf")
+	)
+	(fp_line
+		(start 5.588 -3.0988)
+		(end -5.588 -3.0988)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "811a4a6c-33f6-4e3a-a46e-4ad7574791a0")
+	)
+	(fp_line
+		(start 7.62 1.0668)
+		(end 7.62 -1.0668)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5920d193-a055-4291-8ff3-1d4b48a7bf57")
 	)
 	(fp_rect
 		(start -12.2428 -2.8448)
@@ -169,19 +169,63 @@
 		(layer "F.CrtYd")
 		(uuid "9794b6aa-03f0-4a18-96ef-af53adda2986")
 	)
-	(fp_circle
-		(center 0 0)
-		(end 0 -7.7216)
+	(fp_arc
+		(start -7.62 -1.0668)
+		(mid -7.024841 -2.503641)
+		(end -5.588 -3.0988)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
-		(fill none)
 		(layer "F.CrtYd")
-		(uuid "794eaa44-2b73-47d6-ae2a-863746f49e3a")
+		(uuid "dd78e2e3-5e10-461f-a8bc-39dbfab6a997")
+	)
+	(fp_arc
+		(start -5.588 3.0988)
+		(mid -7.024841 2.503641)
+		(end -7.62 1.0668)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "66f78092-928b-42a5-8d9e-92eecada72a7")
+	)
+	(fp_arc
+		(start 5.588 -3.0988)
+		(mid 7.024841 -2.503641)
+		(end 7.62 -1.0668)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "42709b91-77e7-4c7b-a194-83ef45fef84f")
+	)
+	(fp_arc
+		(start 7.62 1.0668)
+		(mid 7.024841 2.503641)
+		(end 5.588 3.0988)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e87a2e01-3e14-427f-b3f7-aea793ff2dc8")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 9.5 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "753a5b14-379b-4cc8-9023-8ed28b2a34f0")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 12.5 0)
+		(at 0 8.715 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -207,11 +251,13 @@
 		(roundrect_rratio 0.25)
 		(uuid "704f838a-7f35-43a1-967b-8510ba2de32e")
 	)
-	(pad "2" smd circle
+	(pad "2" smd roundrect
 		(at 0 0)
-		(size 15.24 15.24)
+		(size 14.732 5.69)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "e925bbc2-fdd2-4401-a7b3-e4f8a6af5011")
+		(roundrect_rratio 0.3514938489)
+		(thermal_bridge_angle 45)
+		(uuid "02e64214-0ae5-4965-a5c5-afcd74a1740f")
 	)
 	(model "${SOLDERINGKITS_LIB}/model/2032_battery.step"
 		(offset
