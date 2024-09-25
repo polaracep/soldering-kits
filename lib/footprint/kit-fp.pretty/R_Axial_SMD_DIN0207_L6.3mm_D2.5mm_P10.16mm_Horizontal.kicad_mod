@@ -95,8 +95,8 @@
 		(uuid "d7fe590d-6c4d-493b-a2fe-4f11da735aef")
 	)
 	(fp_line
-		(start -0.227064 -0.745)
-		(end 0.227064 -0.745)
+		(start -0.973064 -0.735)
+		(end -0.518936 -0.735)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -105,8 +105,8 @@
 		(uuid "244ba36f-1322-4004-9cfe-a0028da78c52")
 	)
 	(fp_line
-		(start -0.227064 0.725)
-		(end 0.227064 0.725)
+		(start -0.973064 0.735)
+		(end -0.518936 0.735)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -165,8 +165,8 @@
 		(uuid "91e4595b-97e0-4642-9ec3-33eecbbbec9e")
 	)
 	(fp_line
-		(start -1.85 -0.96)
-		(end 1.85 -0.96)
+		(start -2.596 -0.95)
+		(end 1.104 -0.95)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -175,8 +175,8 @@
 		(uuid "0ee234f9-442c-41fd-a94a-d48eb3023a95")
 	)
 	(fp_line
-		(start -1.85 0.94)
-		(end -1.85 -0.96)
+		(start -2.596 0.95)
+		(end -2.596 -0.95)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -185,8 +185,8 @@
 		(uuid "077121f9-1062-4544-8576-d64a36b62be2")
 	)
 	(fp_line
-		(start 1.85 -0.96)
-		(end 1.85 0.94)
+		(start 1.104 -0.95)
+		(end 1.104 0.95)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -195,8 +195,8 @@
 		(uuid "2b236202-3392-4b8f-8dff-405c8e80b377")
 	)
 	(fp_line
-		(start 1.85 0.94)
-		(end -1.85 0.94)
+		(start 1.104 0.95)
+		(end -2.596 0.95)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -295,6 +295,16 @@
 		(uuid "8717392e-1b00-480f-bd2a-5b7755e89fd9")
 	)
 	(fp_line
+		(start 2.159 0)
+		(end 2.159 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "4542f2e9-4bae-41af-940a-2f1257ac0c42")
+	)
+	(fp_line
 		(start 3.15 -1.25)
 		(end -3.15 -1.25)
 		(stroke
@@ -344,14 +354,14 @@
 		(uuid "2f91f3f3-9c91-4e72-beff-15cd0f00e8e7")
 	)
 	(pad "1" smd roundrect
-		(at -1 -0.01)
+		(at -1.746 0)
 		(size 1.2 1.4)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.208333)
 		(uuid "397b2a79-8d68-4c82-a2c9-f2320fbfe8b1")
 	)
 	(pad "2" smd roundrect
-		(at 1 -0.01)
+		(at 0.254 0)
 		(size 1.2 1.4)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.208333)
