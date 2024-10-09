@@ -489,7 +489,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "grb/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
