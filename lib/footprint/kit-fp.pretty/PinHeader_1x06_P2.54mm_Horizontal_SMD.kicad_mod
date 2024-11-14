@@ -77,7 +77,7 @@
 	)
 	(fp_line
 		(start -6.858 2.032)
-		(end 6.858 2.032)
+		(end 4.318 2.032)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -86,7 +86,7 @@
 		(uuid "0604fca0-1613-4d08-90b2-2dd74f4bee19")
 	)
 	(fp_line
-		(start 6.858 -2.032)
+		(start 4.318 -2.032)
 		(end -6.858 -2.032)
 		(stroke
 			(width 0.05)
@@ -96,8 +96,8 @@
 		(uuid "144ff282-8759-4f3f-8cfb-a81450eb6134")
 	)
 	(fp_line
-		(start 7.62 1.27)
-		(end 7.62 -1.27)
+		(start 5.08 1.27)
+		(end 5.08 -1.27)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -128,9 +128,9 @@
 		(uuid "9e539746-04c6-4ac5-a4fc-50ce5bc1f99a")
 	)
 	(fp_arc
-		(start 6.858 -2.032)
-		(mid 7.396815 -1.808815)
-		(end 7.62 -1.27)
+		(start 4.318 -2.032)
+		(mid 4.856815 -1.808815)
+		(end 5.08 -1.27)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -139,9 +139,9 @@
 		(uuid "8d915c0b-3257-4607-8849-9beb7d631fe7")
 	)
 	(fp_arc
-		(start 7.62 1.27)
-		(mid 7.396815 1.808815)
-		(end 6.858 2.032)
+		(start 5.08 1.27)
+		(mid 4.856815 1.808815)
+		(end 4.318 2.032)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -196,13 +196,6 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "efca62e4-ee30-4b98-b675-9080de32c4e9")
-	)
-	(pad "6" smd oval
-		(at 6.35 0)
-		(size 2 3.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(solder_mask_margin 0.102)
-		(uuid "466f2dda-2ec2-4796-9e10-eb994b8d9996")
 	)
 	(model ":KICAD8_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.step"
 		(offset

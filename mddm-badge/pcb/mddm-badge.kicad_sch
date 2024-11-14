@@ -5,7 +5,7 @@
 	(uuid "e5ac9600-0201-4e24-aea0-c395c323229b")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x06"
+		(symbol "Connector_Generic:Conn_01x05"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -19,8 +19,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x06"
-				(at 0 -10.16 0)
+			(property "Value" "Conn_01x05"
+				(at 0 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -45,7 +45,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -72,18 +72,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x06_1_1"
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "Conn_01x05_1_1"
 				(rectangle
 					(start -1.27 -4.953)
 					(end 0 -5.207)
@@ -141,7 +130,7 @@
 				)
 				(rectangle
 					(start -1.27 6.35)
-					(end 1.27 -8.89)
+					(end 1.27 -6.35)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -233,24 +222,6 @@
 						)
 					)
 					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6698,7 +6669,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x06")
+		(lib_id "Connector_Generic:Conn_01x05")
 		(at 255.27 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6708,7 +6679,7 @@
 		(fields_autoplaced yes)
 		(uuid "c0230b8e-d319-4607-bc7d-f1f0bd1f8b4d")
 		(property "Reference" "J1"
-			(at 257.81 85.09 0)
+			(at 257.81 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6716,8 +6687,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x06"
-			(at 257.81 87.63 0)
+		(property "Value" "Conn_01x05"
+			(at 257.81 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6743,7 +6714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 255.27 85.09 0)
 			(effects
 				(font
@@ -6754,9 +6725,6 @@
 		)
 		(pin "5"
 			(uuid "13b19942-a890-4090-a921-a4e1b5be13d5")
-		)
-		(pin "6"
-			(uuid "727ba6f4-64da-4f82-bbb5-6e1cd4c69b10")
 		)
 		(pin "2"
 			(uuid "a206d62d-85ce-4033-bada-ce57f10fcfbc")
