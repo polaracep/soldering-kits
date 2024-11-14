@@ -3200,6 +3200,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C85282"
+			(at 227.33 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "801c9c60-2d8c-4822-9a11-4db15813a940")
 		)
@@ -3404,7 +3413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 88.265 74.93 0)
 			(effects
 				(font
@@ -3551,6 +3560,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 88.265 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3686,7 +3704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 62.865 49.53 0)
 			(effects
 				(font
@@ -3833,6 +3851,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 62.865 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3901,7 +3928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 113.665 49.53 0)
 			(effects
 				(font
@@ -4048,6 +4075,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 113.665 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -4116,7 +4152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 62.865 74.93 0)
 			(effects
 				(font
@@ -4266,6 +4302,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C458749"
+			(at 62.865 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d371fae6-b8e9-4566-a859-4b44a2a400cb")
 		)
@@ -4331,6 +4376,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 265.43 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22962"
 			(at 265.43 50.165 0)
 			(effects
 				(font
@@ -4733,7 +4787,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 88.265 49.53 0)
 			(effects
 				(font
@@ -4880,6 +4934,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 88.265 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5223,6 +5286,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22962"
+			(at 173.99 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d88a0616-ef1d-4b58-8a8e-b455edb46dd9")
 		)
@@ -5282,7 +5354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 139.065 74.93 0)
 			(effects
 				(font
@@ -5429,6 +5501,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 139.065 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5630,7 +5711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 139.065 49.53 0)
 			(effects
 				(font
@@ -5777,6 +5858,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 139.065 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5845,7 +5935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 37.465 74.93 0)
 			(effects
 				(font
@@ -5992,6 +6082,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 37.465 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6127,7 +6226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 37.465 49.53 0)
 			(effects
 				(font
@@ -6274,6 +6373,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 37.465 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6342,7 +6450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRed, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)\n"
+		(property "Description" "Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)"
 			(at 113.665 74.93 0)
 			(effects
 				(font
@@ -6489,6 +6597,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C458749"
+			(at 113.665 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6709,6 +6826,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 167.64 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 167.64 45.085 0)
 			(effects
 				(font
@@ -7055,6 +7181,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22962"
+			(at 265.43 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c4adc86-f81e-4066-8495-9f884e30974c")
 		)
@@ -7181,6 +7316,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 265.43 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23182"
 			(at 265.43 59.055 0)
 			(effects
 				(font

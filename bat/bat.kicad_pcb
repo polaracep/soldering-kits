@@ -887,9 +887,8 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D1"
-			(at 1.375 -2.950002 0)
+			(at 1.274999 -3.000001 0)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "4d8f6627-fe34-4901-b6e7-bc81a22ee8c9")
 			(effects
 				(font
@@ -4950,7 +4949,7 @@
 		)
 		(fp_arc
 			(start 0.6 1.7)
-			(mid 0.389183 1.423933)
+			(mid 0.389182 1.423934)
 			(end 0.217369 1.122045)
 			(stroke
 				(width 0.12)
@@ -6622,9 +6621,8 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D2"
-			(at -2.027 0 -90)
+			(at 1.275 2.999999 180)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "23c552d2-61ef-430f-9dd5-65f45c9615ad")
 			(effects
 				(font
