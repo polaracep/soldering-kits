@@ -1,4 +1,4 @@
-(footprint "CONNFLY_DS1092-04"
+(footprint "MYOUNG_BS-04-Axx005"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "CONNFLY_DS1092-04"
+	(property "Value" "MYOUNG_BS-04-Axx005"
 		(at 0 -15.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -65,7 +65,7 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start 13.8 -3.75)
+		(start 16.4 -3.75)
 		(end 11 -3.75)
 		(stroke
 			(width 0.2)
@@ -75,7 +75,7 @@
 		(uuid "8be39e19-5fe3-4712-8b4e-dfa673c7706b")
 	)
 	(fp_line
-		(start 13.8 3.75)
+		(start 16.4 3.75)
 		(end 11 3.75)
 		(stroke
 			(width 0.2)
@@ -85,8 +85,8 @@
 		(uuid "d506f4f8-4dc9-49b5-a225-0e92b9e9584e")
 	)
 	(fp_line
-		(start 13.8 3.75)
-		(end 13.8 -3.75)
+		(start 16.4 3.75)
+		(end 16.4 -3.75)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -107,7 +107,7 @@
 	)
 	(fp_line
 		(start 11.402065 4.400374)
-		(end 14.4 4.4)
+		(end 17.05 4.4)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -116,7 +116,7 @@
 		(uuid "12cb2084-dae5-4b50-aa74-3527b62785cb")
 	)
 	(fp_line
-		(start 14.4 -4.4)
+		(start 17.05 -4.4)
 		(end 11.4 -4.4)
 		(stroke
 			(width 0.05)
@@ -126,8 +126,8 @@
 		(uuid "dd248b92-9c0d-4576-87c8-7ca7c5514ebe")
 	)
 	(fp_line
-		(start 14.4 4.4)
-		(end 14.4 -4.4)
+		(start 17.05 4.4)
+		(end 17.05 -4.4)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -167,7 +167,7 @@
 		(uuid "9ea58046-f0a1-42d1-9ebb-8f6438234b48")
 	)
 	(pad "2" thru_hole circle
-		(at -7.85 0)
+		(at -6 0)
 		(size 2.5 2.5)
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
