@@ -2,7 +2,7 @@
 A collection of cheap soldering kits made with simple analog/TTL circuits. 
 The aim is to create inexpensive electronic kits that primarily appeal to childern and get them started on their path of electronic engineering. The easiest kits are suitable for childern above the age of 6, but anyone wanting to learn the art of soldering can pick one up.
 If you have some soldering experience already, look at one of the more difficult kits.
-All of these kits were made for [MDDM Úvaly](https://www.mddmuvaly.cz/) and quality-tested by childern. 
+All of these kits were made for [MDDM Úvaly](https://www.mddmuvaly.cz/) and quality-tested by children. 
 
 Most of the kits are meant to be soldered with THT parts (ease of soldering), but there are also some SMD kits, or kits with both SMD and THT. 
 The circuits use a 3V 2032 baterry, due to its small size and low price.
