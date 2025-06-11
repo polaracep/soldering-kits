@@ -1,0 +1,270 @@
+(footprint "LED_side_4.0x1.4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "D**"
+		(at 0 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "71cc76ea-f30c-4924-8216-e1159d447048")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_side_4.0x1.4"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "491207d4-57d9-49b7-a4ff-a17a03e97b4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aeea983e-672d-4819-800a-65152ff12c46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Model for XINGLIGHT XL-4008UWC"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34b947b1-63aa-415f-b503-f877a823ef94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.425 -1.15)
+		(end 1.425 -1.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6ca8e811-a452-48f3-b362-34d077235c5c")
+	)
+	(fp_line
+		(start -1.425 -0.65)
+		(end -1.425 -1.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "93d82288-7479-4b34-a2b7-2e69b44d5f2c")
+	)
+	(fp_line
+		(start -0.9 0.45)
+		(end -0.4 0.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ce848d4f-cce9-478f-9451-984b5f891adc")
+	)
+	(fp_line
+		(start -0.75 -0.325)
+		(end -0.25 -0.325)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "559df691-c3ac-455f-ba35-9a8a5a7f3069")
+	)
+	(fp_line
+		(start -0.4 0.45)
+		(end -0.25 0.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "142ccb70-f5df-457c-846e-fd9e5ec61699")
+	)
+	(fp_line
+		(start -0.25 0.25)
+		(end 0.25 0.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d053e682-1ccb-4b09-b209-f247c32d2272")
+	)
+	(fp_line
+		(start 0.25 -0.575)
+		(end 0.25 -0.075)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4f5d1ec7-a10c-4102-9e0d-faa2bd179b47")
+	)
+	(fp_line
+		(start 0.25 -0.325)
+		(end 0.75 -0.325)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "24cdf9fc-4e5a-4002-a2e7-3361d12740ed")
+	)
+	(fp_line
+		(start 0.4 0.45)
+		(end 0.25 0.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4089c19d-3994-49a6-a4e5-bfeb6a9459b5")
+	)
+	(fp_line
+		(start 0.9 0.45)
+		(end 0.4 0.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c6ffd192-ec0b-49bb-81f4-fec1fe0408dd")
+	)
+	(fp_line
+		(start 1.425 -0.65)
+		(end 1.425 -1.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "add4568c-3ef5-4898-85a6-6b0be9223249")
+	)
+	(fp_circle
+		(center 1.875 -0.9)
+		(end 1.875 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "76fc3249-bc2e-4d20-9c68-d62c63e39a2e")
+	)
+	(fp_poly
+		(pts
+			(xy 0.25 -0.325) (xy -0.25 -0.075) (xy -0.25 -0.575)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d9e9b577-1638-4e22-a6ac-61cbb6aaabbe")
+	)
+	(fp_line
+		(start -2.7 -1.25)
+		(end -2.7 0.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "088d83fb-4b23-413f-a822-05e73e38dd23")
+	)
+	(fp_line
+		(start -2.7 0.6)
+		(end 2.75 0.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "bc9cb5fb-1ede-4e77-9d4f-67850c8d92f2")
+	)
+	(fp_line
+		(start 2.75 -1.25)
+		(end -2.7 -1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "06e00f66-8d36-4d5f-be6b-a37d6c253c39")
+	)
+	(fp_line
+		(start 2.75 0.6)
+		(end 2.75 -1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5144cec5-3a0c-40c2-8ccf-76d6bec7076e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ff7ec8b4-67a1-45af-8d6f-187d76d6f793")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 1.85 0)
+		(size 1.6 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "88c4ebdb-49cb-4fcc-b010-79134a563eea")
+	)
+	(pad "2" smd roundrect
+		(at -1.85 0)
+		(size 1.6 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "1558a186-c0da-4f8f-b2bc-30ba5122ace7")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APA1606_1.6x0.6mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 2.6 1.4 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
